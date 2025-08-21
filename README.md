@@ -45,4 +45,16 @@ Master автоматически передаёт изменения slave.
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
+### Ответ:
+#### Master
+![png](image-2.png)
+
+bin-logs of Master:
+![png](image-4.png)
+
+#### Slave
+![png](image-1.png)
+
+relay-bin logs of Slave:
+![png](image-3.png)
 ---
